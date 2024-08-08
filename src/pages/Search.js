@@ -1,6 +1,6 @@
 export const Search = () => {
     return (
-      <main>Main</main>
+      <main>Search</main>
     )
   }
   
